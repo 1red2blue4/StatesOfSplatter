@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c090ef60438cc4d728192080ae96120d
+timeCreated: 1502389584
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StatesOfSplatter-Sprite-Sheet_0
+    21300002: StatesOfSplatter-Sprite-Sheet_1
+    21300004: StatesOfSplatter-Sprite-Sheet_2
+    21300006: StatesOfSplatter-Sprite-Sheet_3
+    21300008: StatesOfSplatter-Sprite-Sheet_4
+    21300010: StatesOfSplatter-Sprite-Sheet_5
+    21300012: StatesOfSplatter-Sprite-Sheet_6
+    21300014: StatesOfSplatter-Sprite-Sheet_7
+    21300016: StatesOfSplatter-Sprite-Sheet_8
+    21300018: StatesOfSplatter-Sprite-Sheet_9
+    21300020: StatesOfSplatter-Sprite-Sheet_10
+    21300022: StatesOfSplatter-Sprite-Sheet_11
+    21300024: StatesOfSplatter-Sprite-Sheet_12
+    21300026: StatesOfSplatter-Sprite-Sheet_13
+    21300028: StatesOfSplatter-Sprite-Sheet_14
+    21300030: StatesOfSplatter-Sprite-Sheet_15
+    21300032: StatesOfSplatter-Sprite-Sheet_16
+    21300034: StatesOfSplatter-Sprite-Sheet_17
+    21300036: StatesOfSplatter-Sprite-Sheet_18
+    21300038: StatesOfSplatter-Sprite-Sheet_19
+    21300040: StatesOfSplatter-Sprite-Sheet_20
+    21300042: StatesOfSplatter-Sprite-Sheet_21
+    21300044: StatesOfSplatter-Sprite-Sheet_22
+    21300046: StatesOfSplatter-Sprite-Sheet_23
+    21300048: StatesOfSplatter-Sprite-Sheet_24
+    21300050: StatesOfSplatter-Sprite-Sheet_25
+    21300052: StatesOfSplatter-Sprite-Sheet_26
+    21300054: StatesOfSplatter-Sprite-Sheet_27
+    21300056: StatesOfSplatter-Sprite-Sheet_28
+    21300058: StatesOfSplatter-Sprite-Sheet_29
+    21300060: StatesOfSplatter-Sprite-Sheet_30
+    21300062: StatesOfSplatter-Sprite-Sheet_31
+    21300064: StatesOfSplatter-Sprite-Sheet_32
+    21300066: StatesOfSplatter-Sprite-Sheet_33
+    21300068: StatesOfSplatter-Sprite-Sheet_34
+    21300070: StatesOfSplatter-Sprite-Sheet_35
+    21300072: StatesOfSplatter-Sprite-Sheet_36
+    21300074: StatesOfSplatter-Sprite-Sheet_37
+    21300076: StatesOfSplatter-Sprite-Sheet_38
+    21300078: StatesOfSplatter-Sprite-Sheet_39
+    21300080: StatesOfSplatter-Sprite-Sheet_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5369
+        width: 1031
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 5369
+        width: 1032
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 5369
+        width: 1033
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 5117
+        width: 1033
+        height: 1027
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 5117
+        width: 1033
+        height: 1027
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 5117
+        width: 1031
+        height: 1027
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4112
+        width: 1028
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 4112
+        width: 1032
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 4112
+        width: 1033
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 4045
+        width: 1033
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 4045
+        width: 1033
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 4045
+        width: 1031
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2893
+        width: 1028
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3664
+        width: 1033
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 2960
+        width: 1031
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2893
+        width: 1033
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 2571
+        width: 1036
+        height: 1037
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 2568
+        width: 1037
+        height: 1036
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4908
+        y: 2673
+        width: 101
+        height: 933
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1773
+        width: 1033
+        height: 1036
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1959
+        width: 1015
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1269
+        width: 1034
+        height: 1035
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 1269
+        width: 1037
+        height: 1036
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 1773
+        width: 1031
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1056
+        width: 479
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 863
+        width: 580
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 79
+        width: 1033
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1031
+        height: 1027
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 709
+        width: 542
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 0
+        width: 1035
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 0
+        width: 644
+        height: 1017
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 0
+        width: 620
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 530
+        width: 142
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 544
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 567
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 0
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 482
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 2672
+        width: 104
+        height: 934
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 2572
+        width: 831
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4908
+        y: 2572
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StatesOfSplatter-Sprite-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 2572
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
